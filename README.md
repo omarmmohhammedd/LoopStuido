@@ -1,4 +1,4 @@
-# Frontend Mentor - Loopstudios landing page
+# Loopstudios landing page
 
 ![Design preview for the Loopstudios landing page coding challenge](./design/desktop-preview.jpg)
 
@@ -92,3 +92,4 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+Live Demo : https://omarmmohhammedd.github.io/LoopStuido/
